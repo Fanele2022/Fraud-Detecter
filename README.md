@@ -1,5 +1,7 @@
 # AI-Powered Fraud Detection & Transaction Risk Scorer
 
+🚀 **Live Demo:** [fraud-detecter.onrender.com](https://fraud-detecter.onrender.com)
+
 ## Overview
 This repository contains a full-stack, machine learning-powered transaction risk scoring service designed to evaluate banking transactions in real-time. The project demonstrates practical data science, model serialization, and backend API development using Python, Scikit-Learn, and Flask.
 
